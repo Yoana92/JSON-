@@ -1,0 +1,86 @@
+{
+    "supermercados": [
+      {
+        "nombre": "Lupa",
+        "direccion": "Tr.ª Orense, 12, 39610 El Astillero, Cantabria",
+        "geolocalizacion": {
+          "latitud": "43.409044",
+          "longitud": "-3.821974"
+        },
+        "productos": [
+          {
+            "nombre": "Leche",
+            "oferta": true,
+            "periodo_vigencia": "2023-04-01 - 2023-04-30",
+            "unidad_medida": "litros",
+            "unidades": 2,
+            "precio": 1.50,
+            "adquirido": false
+          },
+          {
+            "nombre": "Pan",
+            "oferta": false,
+            "unidad_medida": "unidades",
+            "unidades": 1,
+            "precio": 0.80,
+            "adquirido": true
+          }
+        ]
+      },
+      {
+        "nombre": "Mercadona",
+        "direccion": "Ria de Solia 7, 39610 El Astillero, Cantabria",
+        "geolocalizacion": {
+          "latitud": "43.407954",
+          "longitud": "-3.820940"
+        },
+        "productos": [
+          {
+            "nombre": "Pollo",
+            "oferta": true,
+            "periodo_vigencia": "2023-04-01 - 2023-04-30",
+            "unidad_medida": "kilogramos",
+            "unidades": 1,
+            "precio": 4.99,
+            "adquirido": false
+          },
+          {
+            "nombre": "Arroz",
+            "oferta": false,
+            "unidad_medida": "kilogramos",
+            "unidades": 1,
+            "precio": 1.20,
+            "adquirido": false
+          }
+        ]
+      },
+      {
+        "nombre": "Supermercados Dia",
+        "direccion": "Plaza de la Constitución 3, 39610 El Astillero, Cantabria",
+        "geolocalizacion": {
+          "latitud": "43.406668",
+          "longitud": "-3.817754"
+        },
+        "productos": [
+          {
+            "nombre": "Tomate",
+            "oferta": true,
+            "periodo_vigencia": "2023-04-01 - 2023-04-30",
+            "unidad_medida": "kilogramos",
+            "unidades": 2,
+            "precio": 1.50,
+            "adquirido": true
+          },
+          {
+            "nombre": "Pasta",
+            "oferta": false,
+            "unidad_medida": "unidades",
+            "unidades": 1,
+            "precio": 0.80,
+            "adquirido": false
+          }
+        ]
+      }
+    ]
+  }
+  

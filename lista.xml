@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supermercados>
+  <supermercado>
+    <nombre>Lupa</nombre>
+    <direccion>Tr.ª Orense, 12, 39610 El Astillero, Cantabria</direccion>
+    <geolocalizacion>
+      <latitud>43.409044</latitud>
+      <longitud>-3.821974</longitud>
+    </geolocalizacion>
+    <productos>
+      <producto>
+        <nombre>Leche</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023-04-01 - 2023-04-30</periodo_vigencia>
+        <unidad_medida>litros</unidad_medida>
+        <unidades>2</unidades>
+        <precio>1.50</precio>
+        <adquirido>false</adquirido>
+      </producto>
+      <producto>
+        <nombre>Pan</nombre>
+        <oferta>false</oferta>
+        <unidad_medida>unidades</unidad_medida>
+        <unidades>1</unidades>
+        <precio>0.80</precio>
+        <adquirido>true</adquirido>
+      </producto>
+    </productos>
+  </supermercado>
+  <supermercado>
+    <nombre>Mercadona</nombre>
+    <direccion>Ria de Solia 7, 39610 El Astillero, Cantabria</direccion>
+    <geolocalizacion>
+      <latitud>43.407954</latitud>
+      <longitud>-3.820940</longitud>
+    </geolocalizacion>
+    <productos>
+      <producto>
+        <nombre>Pollo</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023-04-01 - 2023-04-30</periodo_vigencia>
+        <unidad_medida>kilogramos</unidad_medida>
+        <unidades>1</unidades>
+        <precio>4.99</precio>
+        <adquirido>false</adquirido>
+      </producto>
+      <producto>
+        <nombre>Arroz</nombre>
+        <oferta>false</oferta>
+        <unidad_medida>kilogramos</unidad_medida>
+        <unidades>1</unidades>
+        <precio>1.20</precio>
+        <adquirido>false</adquirido>
+      </producto>
+    </productos>
+  </supermercado>
+  <supermercado>
+    <nombre>Supermercados Dia</nombre>
+    <direccion>Plaza de la Constitución 3, 39610 El Astillero, Cantabria</direccion>
+    <geolocalizacion>
+      <latitud>43.406668</latitud>
+      <longitud>-3.817754</longitud>
+    </geolocalizacion>
+    <productos>
+      <producto>
+        <nombre>Tomate</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023-04-01 - 2023-04-30</periodo_vigencia>
+        <unidad_medida>kilogramos</unidad_medida>
+        <unidades>2</unidades>
+        <precio>1.50</precio>
+        <adquirido>true</adquirido>
+      </producto>
+      <producto>
+        <nombre>Pasta</nombre>
+        <oferta>false</oferta>
+        <unidad_medida>unidades</unidad_medida>
